@@ -1,0 +1,2 @@
+include ':app', ':touchsdk'
+rootProject.name = "TouchFilterSDK_UI"
